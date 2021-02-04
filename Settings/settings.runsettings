@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<RunConfiguration>
+		<MaxCpuCount>0</MaxCpuCount>
+	</RunConfiguration>
+  <TestRunParameters>
+    <Parameter name="BROWSER" value="chrome" />
+    <Parameter name="USER_ID" value="User" />
+    <Parameter name="PASSWORD" value="pw" />
+    <Parameter name="URL" value="https://sportsdirect.com" />
+  </TestRunParameters>
+</RunSettings>
